@@ -12,4 +12,8 @@ On ajoute une deuxième phrase
 
 ## Deployment
 
+Une troisième phrase peut-être ?
+
 ## How to contribute
+
+Bon allez celle là c'est la dernière je pense
