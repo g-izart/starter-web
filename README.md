@@ -8,6 +8,8 @@ On teste ici l'outil de comparaison
 
 ## Purpose
 
+On ajoute une deuxième phrase
+
 ## Deployment
 
 ## How to contribute
